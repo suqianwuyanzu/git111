@@ -1,1 +1,2 @@
-let text="hello git"
+let text="hello git";
+console.log(text)
